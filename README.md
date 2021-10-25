@@ -1,1 +1,3 @@
-# Fan DAO logotype
+# Fan DAO Logotype
+
+Fan DAO logotype
