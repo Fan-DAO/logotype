@@ -1,3 +1,3 @@
 # Fan DAO Logotype
 
-Fan DAO logotype
+![](fan400circle.png)
