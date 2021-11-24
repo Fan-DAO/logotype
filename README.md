@@ -1,3 +1,5 @@
+![](fan400circle.png)
+
 # Fan DAO Logotype
 
-![](fan400circle.png)
+Fan DAO logotype
